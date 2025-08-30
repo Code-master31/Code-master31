@@ -1,10 +1,10 @@
-# arunagirinathan-Coder
 # 💫 About Me:
 🚀AI & Data Science Enthusiast | Full-Stack Developer | Turning Ideas into Scalable Solutions <br>
 🚀Startup-Focused Innovator | AI & Full-Stack Developer | Building Scalable Tech for Impact <br>
 🚀Building Intelligent Solutions with Machine Learning and Advanced Analytics
- 
 
+ # My Primary GitHub Account
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/ARUNAGIRINATHAN-K)
 
 ## 🌐 LINKEDIN:
 ![ARUNAGIRINATHAN](https://github.com/ARUNAGIRINATHAN-K)
