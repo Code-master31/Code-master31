@@ -4,6 +4,8 @@
 🚀Building Intelligent Solutions with Machine Learning and Advanced Analytics
 
  # My Primary GitHub Account
+ ## For my main projects and contributions, please visit my **main GitHub profile** 👇
+ 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/ARUNAGIRINATHAN-K)
 
 ## 🌐 LINKEDIN:
