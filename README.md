@@ -8,6 +8,9 @@
  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/ARUNAGIRINATHAN-K)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&theme=dark&langs_count=15&cache_seconds=60&hide=jupyter%20notebook)
+
+
 ## 🌐 LINKEDIN:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-black?logo=&LinkedInlogoColor=white)](https://www.linkedin.com/in/arunagirinathan-k)
 
@@ -25,11 +28,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Code-master31&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&theme=dark&langs_count=15&cache_seconds=60&hide=jupyter%20notebook)
-
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=Code-master31&limit=5&theme=dark&combine_all_yearly_contributions=true)
