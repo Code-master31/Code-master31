@@ -26,6 +26,12 @@
 
 ### 🔝 Top Contributed Repo
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&theme=dark&langs_count=15&cache_seconds=60&hide=jupyter%20notebook)
+
+
+
 ![](https://github-contributor-stats.vercel.app/api?username=Code-master31&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
