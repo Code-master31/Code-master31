@@ -3,11 +3,6 @@
 🚀Startup-Focused Innovator | AI & Full-Stack Developer | Building Scalable Tech for Impact <br>
 🚀Building Intelligent Solutions with Machine Learning and Advanced Analytics
 
- # My Primary GitHub Account
- ## For my main projects and contributions, please visit my **main GitHub profile** 👇
- 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/ARUNAGIRINATHAN-K)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&theme=dark&langs_count=15&cache_seconds=60&hide=jupyter%20notebook)
 
 
@@ -21,7 +16,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Code-master31&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Code-master31&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-master31&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-master31&layout=compact&theme=dark&langs_count=15&cache_seconds=60&hide=jupyter%20notebook)
 
 ## 🏆 GitHub Trophies
 
