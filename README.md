@@ -3,7 +3,7 @@
 🚀Startup-Focused Innovator | AI & Full-Stack Developer | Building Scalable Tech for Impact <br>
 🚀Building Intelligent Solutions with Machine Learning and Advanced Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&theme=dark&langs_count=15&cache_seconds=60&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAGIRINATHAN-K&layout=compact&theme=dark&langs_count=15&cache_seconds=60)
 
 
 ## 🌐 LINKEDIN:
